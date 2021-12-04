@@ -1,5 +1,5 @@
 # checkbox-detection
-This is a personal effort to extract checked checkbox data from PDF/image files.
+This is an effort to extract checked checkbox data from PDF/image files.
 
 Computer generated pdf: -
 It uses pdfplumber python library to get details of diffrent shapes from the pdf file.
